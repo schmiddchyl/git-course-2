@@ -1,1 +1,10 @@
 Add user
+
+change roles
+
+Manage DB
+closing the mysql connection
+
+change1
+change2 in my database
+
