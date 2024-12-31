@@ -3,3 +3,4 @@ Add user
 change roles
 
 Manage DB
+closing the connection
