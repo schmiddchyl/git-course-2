@@ -7,4 +7,5 @@ closing the mysql connection
 
 change1
 change2 in my database
+this is my change to feature 1
 
